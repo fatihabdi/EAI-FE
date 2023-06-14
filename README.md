@@ -1,4 +1,4 @@
-This is a frontend repository for startup campus BE batch 1
+This is a frontend repository for Tubes EAI Kelompok 1
 
 there is docker-compose.yml for example to how you use this app in your docker-compose
 
